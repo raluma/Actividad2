@@ -9,8 +9,17 @@
  * @author 1cfgs
  */
 public class Calculadora {
+    /*
+    Varible entera llamada operador1
+    */
     private int operador1;
+    /*
+    Variable entera llamada operador2
+    */
     private int operador2;
+    /*
+    Variable entera llamada operacio
+    */
     private int operacion;
 
     /**
